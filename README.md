@@ -1,4 +1,4 @@
-### Olá! Eu sou o Paulo barbosa 👋
+### Olá! Eu sou o Paulo Barbosa 👋
 
 - 🔭 Eu sou um desenvolvedor OutSystems
 - 💬 Contate-me no email: paulo_edson_barbosa@hotmail.com
